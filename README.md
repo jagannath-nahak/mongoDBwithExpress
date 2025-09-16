@@ -19,12 +19,11 @@ A dynamic two-player chess game built using **Socket.IO**, **Node.js**, **Expres
 
 ## 🛠️ Tech Stack
 
-| Layer      | Technologies                          |
-|------------|---------------------------------------|
-| Frontend   | HTML, CSS, JS, Drag & Drop API        |
-| Backend    | Node.js, Express.js, Socket.IO        |
-| UI/UX      | Vanilla JS, CSS, Lightweight rendering|
-| View Logic | Chessboard.js / Custom drag-drop logic|
+| Layer      | Technologies        |
+------------------------------------
+| Frontend   | Html,css,JavaSCript |
+|Backend     |Node.js,Express.js   |
+|View Engine | EJS                 |
 
 ---
 
