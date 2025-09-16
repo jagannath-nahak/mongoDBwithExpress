@@ -20,7 +20,7 @@ A dynamic two-player chess game built using **Socket.IO**, **Node.js**, **Expres
 ## 🛠️ Tech Stack
 
 | Layer      | Technologies        |
-------------------------------------
+|------------|---------------------|
 | Frontend   | Html,css,JavaSCript |
 |Backend     |Node.js,Express.js   |
 |View Engine | EJS                 |
