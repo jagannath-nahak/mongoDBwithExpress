@@ -1,4 +1,4 @@
-# ♟️ Chess Game – Real-Time Multiplayer Chess
+♟️ Chess Game – Real-Time Multiplayer Chess
 
 A dynamic two-player chess game built using **Socket.IO**, **Node.js**, **Express.js**, and **Vanilla JS/CSS**, with spectator mode support, drag-drop UI, and turn-based validation.  
 
