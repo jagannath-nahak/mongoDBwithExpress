@@ -4,7 +4,7 @@ A dynamic two-player chess game built using **Socket.IO**, **Node.js**, **Expres
 
 ---
 
- 🚀 Features
+## 🚀 Features
 
 - Real-time multiplayer gameplay with synchronized board updates  
 - Drag-and-drop chess pieces with legal move checks  
